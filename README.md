@@ -1,2 +1,2 @@
 # BUILD A REST API WITH DJANGO REST FRAMEWORK 
-This is a follow up code for an article we go through a step by step process of building a REST API with Django rest-framework published on https://logique.hashnode.dev 
+This is a follow up code for an article where we go through a step by step process of building a REST API with Django rest-framework published on https://logique.hashnode.dev 
